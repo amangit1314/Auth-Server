@@ -1,7 +1,7 @@
 {
   "name": "auth-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A preferable server application project structure for any kind of node.js project or node api",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
